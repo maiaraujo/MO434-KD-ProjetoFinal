@@ -1,0 +1,158 @@
+[
+  {
+    "Modelo": "KD (ResNet18) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 14.61,
+    "Par\u00e2metros Trein\u00e1veis (M)": 14.59,
+    "GFLOPs": 1.991
+  },
+  {
+    "Modelo": "KD (ResNet18) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 16.44,
+    "Par\u00e2metros Trein\u00e1veis (M)": 16.43,
+    "GFLOPs": 1.829
+  },
+  {
+    "Modelo": "FitNet (ResNet18) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 14.61,
+    "Par\u00e2metros Trein\u00e1veis (M)": 14.59,
+    "GFLOPs": 1.991
+  },
+  {
+    "Modelo": "FitNet (ResNet18) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 16.44,
+    "Par\u00e2metros Trein\u00e1veis (M)": 16.43,
+    "GFLOPs": 1.829
+  },
+  {
+    "Modelo": "AT (ResNet18) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 14.61,
+    "Par\u00e2metros Trein\u00e1veis (M)": 14.59,
+    "GFLOPs": 1.991
+  },
+  {
+    "Modelo": "AT (ResNet18) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 16.44,
+    "Par\u00e2metros Trein\u00e1veis (M)": 16.43,
+    "GFLOPs": 1.829
+  },
+  {
+    "Modelo": "RKD (ResNet18) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 14.61,
+    "Par\u00e2metros Trein\u00e1veis (M)": 14.59,
+    "GFLOPs": 1.991
+  },
+  {
+    "Modelo": "RKD (ResNet18) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 16.44,
+    "Par\u00e2metros Trein\u00e1veis (M)": 16.43,
+    "GFLOPs": 1.829
+  },
+  {
+    "Modelo": "MSE+CE (ResNet18) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 14.61,
+    "Par\u00e2metros Trein\u00e1veis (M)": 14.59,
+    "GFLOPs": 1.991
+  },
+  {
+    "Modelo": "MSE+CE (ResNet18) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 16.44,
+    "Par\u00e2metros Trein\u00e1veis (M)": 16.43,
+    "GFLOPs": 1.829
+  },
+  {
+    "Modelo": "MSE (ResNet18) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 14.61,
+    "Par\u00e2metros Trein\u00e1veis (M)": 14.59,
+    "GFLOPs": 1.991
+  },
+  {
+    "Modelo": "MSE (ResNet18) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 16.44,
+    "Par\u00e2metros Trein\u00e1veis (M)": 16.43,
+    "GFLOPs": 1.829
+  },
+  {
+    "Modelo": "KD (Lighter) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 3.95,
+    "Par\u00e2metros Trein\u00e1veis (M)": 3.94,
+    "GFLOPs": 0.239
+  },
+  {
+    "Modelo": "KD (Lighter) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 5.79,
+    "Par\u00e2metros Trein\u00e1veis (M)": 5.78,
+    "GFLOPs": 0.077
+  },
+  {
+    "Modelo": "FitNet (Lighter) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 3.95,
+    "Par\u00e2metros Trein\u00e1veis (M)": 3.94,
+    "GFLOPs": 0.239
+  },
+  {
+    "Modelo": "FitNet (Lighter) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 5.79,
+    "Par\u00e2metros Trein\u00e1veis (M)": 5.78,
+    "GFLOPs": 0.077
+  },
+  {
+    "Modelo": "AT (Lighter) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 3.95,
+    "Par\u00e2metros Trein\u00e1veis (M)": 3.94,
+    "GFLOPs": 0.239
+  },
+  {
+    "Modelo": "AT (Lighter) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 5.79,
+    "Par\u00e2metros Trein\u00e1veis (M)": 5.78,
+    "GFLOPs": 0.077
+  },
+  {
+    "Modelo": "RKD (Lighter) Pr\u00e9 [nat]",
+    "Par\u00e2metros Total (M)": 3.95,
+    "Par\u00e2metros Trein\u00e1veis (M)": 3.94,
+    "GFLOPs": 0.239
+  },
+  {
+    "Modelo": "RKD (Lighter) P\u00f3s [nat]",
+    "Par\u00e2metros Total (M)": 5.79,
+    "Par\u00e2metros Trein\u00e1veis (M)": 5.78,
+    "GFLOPs": 0.077
+  },
+  {
+    "Modelo": "MSE+CE (Lighter) Pr\u00e9-GAP [nat]",
+    "Par\u00e2metros Total (M)": 3.95,
+    "Par\u00e2metros Trein\u00e1veis (M)": 3.94,
+    "GFLOPs": 0.239
+  },
+  {
+    "Modelo": "MSE+CE (Lighter) P\u00f3s-GAP [nat]",
+    "Par\u00e2metros Total (M)": 5.79,
+    "Par\u00e2metros Trein\u00e1veis (M)": 5.78,
+    "GFLOPs": 0.077
+  },
+  {
+    "Modelo": "MSE (Lighter) Pr\u00e9-GAP [nat]",
+    "Par\u00e2metros Total (M)": 3.95,
+    "Par\u00e2metros Trein\u00e1veis (M)": 3.94,
+    "GFLOPs": 0.239
+  },
+  {
+    "Modelo": "MSE (Lighter) P\u00f3s-GAP [nat]",
+    "Par\u00e2metros Total (M)": 5.79,
+    "Par\u00e2metros Trein\u00e1veis (M)": 5.78,
+    "GFLOPs": 0.077
+  },
+  {
+    "Modelo": "ResNet18 original (Adam/MSE) [nat]",
+    "Par\u00e2metros Total (M)": 11.18,
+    "Par\u00e2metros Trein\u00e1veis (M)": 11.18,
+    "GFLOPs": 1.824
+  },
+  {
+    "Modelo": "ResNet18 original (Adam/CE)  [nat]",
+    "Par\u00e2metros Total (M)": 11.18,
+    "Par\u00e2metros Trein\u00e1veis (M)": 11.18,
+    "GFLOPs": 1.824
+  }
+]
