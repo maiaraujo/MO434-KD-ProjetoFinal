@@ -70,7 +70,7 @@ Seis métodos de destilação foram comparados, cada um com sua própria funçã
 - **AT (Attention Transfer)**
 - **RKD (Relational KD)**
 - **MSE+CE**
-- **MSE (Similar ao SimKD)**
+- **MSE sem CE**
 
 ---
 
