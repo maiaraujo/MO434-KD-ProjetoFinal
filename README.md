@@ -88,3 +88,4 @@ A figura abaixo ilustra a arquitetura completa do experimento: em vermelho os co
 - **Pós-GAP** (ambos): arquivos com prefixo `POSTGAP_`
 - **Análise comparativa:** `MO434_Analise_Comparativa_Modelos.ipynb`
 - **Melhor modelo (100 épocas):** `Maiara-Araujo_MO434_TrabalhoFinal_291674-MelhorLighterEncoder.ipynb`
+- **Análise comparativa (100 épocas):** `MO434_Analise_Comparativa_Modelos_ISOLADAS_MAIS_EPOCHS.ipynb`
