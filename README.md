@@ -22,6 +22,13 @@ São exploradas duas variantes do *predictor* (pré-GAP e pós-GAP) e dois *stud
 
 ---
 
+## Demonstração On-line
+
+Uma versão interativa do projeto está disponível em: [https://maiaraujo.com.br/mo434-online/](https://maiaraujo.com.br/mo434-online/)
+Essa página web permite comparar em tempo real o comportamento do modelo **Teacher (ResNet50)** e comparar com os modelos **Student** treinados, assim vendo o resultado do tempo de inferência de cada um. Inicialmente somente converti os modelos .pth em .onnx para pré-GAP e no dataset [Natural Images](https://www.kaggle.com/datasets/prasunroy/natural-images).
+
+---
+
 ## Datasets Utilizados
 
 | Dataset | Classes | Imagens | Fonte |
