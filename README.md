@@ -22,13 +22,6 @@ São exploradas duas variantes do *predictor* (pré-GAP e pós-GAP) e dois *stud
 
 ---
 
-## Demonstração On-line
-
-Uma versão interativa do projeto está disponível em: [https://maiaraujo.com.br/mo434-online/](https://maiaraujo.com.br/mo434-online/)
-Essa página web permite comparar em tempo real o comportamento do modelo **Teacher (ResNet50)** e comparar com os modelos **Student** treinados, assim vendo o resultado do tempo de inferência de cada um. Inicialmente somente converti os modelos .pth em .onnx para pré-GAP e no dataset [Natural Images](https://www.kaggle.com/datasets/prasunroy/natural-images).
-
----
-
 ## Datasets Utilizados
 
 | Dataset | Classes | Imagens | Fonte |
@@ -89,10 +82,20 @@ A figura abaixo ilustra a arquitetura completa do experimento: em vermelho os co
 
 ---
 
-### Notebooks principais:
+## Notebooks principais:
 - **ResNet18 (pré-GAP):** `Maiara_Araujo_MO434_TrabalhoFinal_291674.ipynb`
 - **Lighter Encoder (pré-GAP):** `Maiara_Araujo_MO434_TrabalhoFinal_291674_LighterEncoder.ipynb`
 - **Pós-GAP** (ambos): arquivos com prefixo `POSTGAP_`
 - **Análise comparativa:** `MO434_Analise_Comparativa_Modelos.ipynb`
 - **Melhor modelo (100 épocas):** `Maiara-Araujo_MO434_TrabalhoFinal_291674-MelhorLighterEncoder.ipynb`
 - **Análise comparativa (100 épocas):** `MO434_Analise_Comparativa_Modelos_ISOLADAS_MAIS_EPOCHS.ipynb`
+
+
+---
+
+## Demonstração On-line
+
+Uma versão interativa do projeto está disponível em: [https://maiaraujo.com.br/mo434-online/](https://maiaraujo.com.br/mo434-online/)
+Essa página web permite comparar em tempo real o comportamento do modelo **Teacher (ResNet50)** e comparar com os modelos **Student** treinados, assim vendo o resultado do tempo de inferência de cada um. Inicialmente somente converti os modelos .pth em .onnx para pré-GAP e no dataset [Natural Images](https://www.kaggle.com/datasets/prasunroy/natural-images).
+
+<img src="_figuras/web-inferencia-fitnet.png" alt="Inferência na página interativa" width="400">
